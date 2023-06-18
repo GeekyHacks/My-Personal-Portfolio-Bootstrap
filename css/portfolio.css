@@ -1,0 +1,64 @@
+* {
+  box-sizing: content-box;
+  outline: none;
+  background: none repeat scroll 0 0 transparent;
+  border: 0;
+  border-spacing: 0;
+  list-style-type: none;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container-fluid {
+  --bs-gutter-x: 0;
+}
+
+.nav-link {
+  color: #172b4d;
+}
+
+#headlines {
+  padding-top: 7%;
+  margin-bottom: 18%;
+}
+
+h1 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: #172b4d;
+  line-height: 103%;
+}
+
+span {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 103%;
+  color: #36b37e;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 132%;
+}
+
+#socialIcons > * {
+  height: 2rem;
+}
+
+#downArrow {
+  padding-top: 7%;
+  margin: 0 2% 0 0;
+  width: 4%;
+}
+
+#work {
+  padding-top: 13%;
+}
+
+/*# sourceMappingURL=portfolio.css.map */
